@@ -1,6 +1,6 @@
 # ivy-material-list-size
 
-This repo shows a size regression with Ivy.
+This repo shows a size regression with Ivy found in https://github.com/angular/angular-cli/issues/16866.
 
 ```sh
 git clone https://github.com/filipesilva/ivy-material-list-size
